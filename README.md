@@ -1,7 +1,7 @@
 
 # Personal_Portfolio
 Created a personal portfolio website having appealing layout by using HTML, CSS, javaScript.
-This is my Home page 
+<div>This is my Home page </div>
 
 ![a1](https://github.com/ankitanjana23/Personal_Portfolio/assets/136179445/0223bdaf-adea-468d-84a2-dbfabd39696b)
 
